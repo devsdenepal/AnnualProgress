@@ -23,7 +23,7 @@
 - Become a moderator and community manager at 0d4y3xpl017
 - Publish Xupa - Rustam along with a video tutorial
 ---
-# A new year new pahse: 2024
+# A new year new phase: 2024
 - Publish Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover! [ #DAY 0]" for Towards Dev (Medium)
 - Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
 - Administrated Community Discord server for NepTech Tribe
