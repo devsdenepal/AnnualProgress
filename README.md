@@ -24,6 +24,7 @@
 - Publish Xupa - Rustam along with a video tutorial
 ---
 # A new year new phase: 2024
-- Publish Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover! [ #DAY 0]" for Towards Dev (Medium)
-- Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
-- Administrated Community Discord server for NepTech Tribe
+- Published Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover! [ #DAY 0]" for Towards Dev (Medium)
+- Attended Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
+- Administrate Community Discord server for NepTech Tribe
+- Joined "Exclusive Session on Mastering Email Writing" by Shreesha Aatrey (NepTech Tribe) at AMC, Bhairahawa
