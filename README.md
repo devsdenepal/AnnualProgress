@@ -1,3 +1,11 @@
+---
+# A new year new phase: 2024
+- Published Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover! [ #DAY 0]" for Towards Dev (Medium)
+- Attended Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
+- Administrate Community Discord server for NepTech Tribe
+- Programmed and implemented Discord Fact,meme and remnder bot for NepTech Tribe Server.
+- Joined "Exclusive Session on Mastering Email Writing" by Shreesha Aatrey (NepTech Tribe) at AMC, Bhairahawa
+--
 # 2023 Year of Growth and Contribution: A Timeline of Milestones and Achievements
 - Write an article on GitHub Actions: "Beginner’s Insight into Streamlining Workflows (Towards Dev)"
 - Publish an article titled "Foundations for Fluent Code: Essential Tips for Beginner Programmers"
@@ -22,9 +30,4 @@
 - Share a 1-year journey in a video format
 - Become a moderator and community manager at 0d4y3xpl017
 - Publish Xupa - Rustam along with a video tutorial
----
-# A new year new phase: 2024
-- Published Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover! [ #DAY 0]" for Towards Dev (Medium)
-- Attended Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
-- Administrate Community Discord server for NepTech Tribe
-- Joined "Exclusive Session on Mastering Email Writing" by Shreesha Aatrey (NepTech Tribe) at AMC, Bhairahawa
+
