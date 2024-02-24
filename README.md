@@ -5,6 +5,7 @@
 - Administrate Community Discord server for NepTech Tribe
 - Programmed and implemented Discord Fact,meme and remnder bot for NepTech Tribe Server.
 - Joined "Exclusive Session on Mastering Email Writing" by Shreesha Aatrey (NepTech Tribe) at AMC, Bhairahawa
+- Physical Meetup with Sushant Rimal(DEV C. Nepal Community Founder & Sr. WordPress Dev) and Abhishek Adhikari (Mod. @ DEV C. Nepal & UI/UX Designer)
 --
 # 2023 Year of Growth and Contribution: A Timeline of Milestones and Achievements
 - Write an article on GitHub Actions: "Beginner’s Insight into Streamlining Workflows (Towards Dev)"
