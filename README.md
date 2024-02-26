@@ -1,12 +1,13 @@
 ---
 # A new year new phase: 2024
-- Published Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover! [ #DAY 0]" for Towards Dev (Medium)
+- Published Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover!" for Towards Dev (Medium)
 - Attended Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
 - Administrate Community Discord server for NepTech Tribe
 - Programmed and implemented Discord Fact,meme and remnder bot for NepTech Tribe Server.
 - Joined "Exclusive Session on Mastering Email Writing" by Shreesha Aatrey (NepTech Tribe) at AMC, Bhairahawa
 - Physical Meetup with Sushant Rimal(DEV C. Nepal Community Founder & Sr. WordPress Dev) and Abhishek Adhikari (Mod. @ DEV C. Nepal & UI/UX Designer)
---
+- General Discussion again with Sushant sir and Abhishek sir, joined the **largest Tech Event of Lumbini: Tech Conclave 2024**  [See here](https://www.facebook.com/dev.gautam404/posts/pfbid0mbQbzgow67aSHmN1n2JiY5i9PC9D6sEwki8Vp62cwrToQCaJGQCdGVkDnciCUw3el)
+
 # 2023 Year of Growth and Contribution: A Timeline of Milestones and Achievements
 - Write an article on GitHub Actions: "Beginner’s Insight into Streamlining Workflows (Towards Dev)"
 - Publish an article titled "Foundations for Fluent Code: Essential Tips for Beginner Programmers"
