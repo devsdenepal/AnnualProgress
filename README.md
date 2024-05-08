@@ -2,14 +2,16 @@
 # A new year new phase: 2024
 - Published Article : "Introducing the CLI: Where Geeks Rule and Mice Run for Cover!" for Towards Dev (Medium)
 - Attended Executive Physical Meetup of NepTech Tribe, got the chance to take picture with Santosh Pandey.
+- Met Dipesh Sharma (Young Tech Enthusiast)
 - Administrate Community Discord server for NepTech Tribe
 - Programmed and implemented Discord Fact,meme and remnder bot for NepTech Tribe Server.
 - Joined "Exclusive Session on Mastering Email Writing" by Shreesha Aatrey (NepTech Tribe) at AMC, Bhairahawa
-- Physical Meetup with Sushant Rimal(DEV C. Nepal Community Founder & Sr. WordPress Dev) and Abhishek Adhikari (Mod. @ DEV C. Nepal & UI/UX Designer)
+- Physical Meetup with **Sushant Rimal(DEV C. Nepal Community Founder & Sr. WordPress Dev) and Abhishek Adhikari (Mod. @ DEV C. Nepal & UI/UX Designer)**
 - General Discussion again with Sushant sir and Abhishek sir, joined the **largest Tech Event of Lumbini: Tech Conclave 2024**  [See here](https://www.facebook.com/dev.gautam404/posts/pfbid0mbQbzgow67aSHmN1n2JiY5i9PC9D6sEwki8Vp62cwrToQCaJGQCdGVkDnciCUw3el)
 - [Mentored **NepTech Tribe** Community session "`Surfing with CLI(Command Line Interface)`" at American Corner, Bhairahawa](https://www.facebook.com/dev.gautam404/posts/pfbid02KAs5g5C8iu2UVeZG9NgmgR87y6yzYqxs6X5SptFNGfQAMasdfus8X8FXdWjq2jZUl)
 - Got [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) on [Discord Profile](https://discord.com/@dev.gautam404).
 - Future Discussion with Sakshyam Banjade (Tech Enthusiast)
+- Joined **IT Slayers** group at **Anerican Corner**
 - General Community Discussion with [Mangal Lopchan Sir(AKA Linux Guy Nepal)](https://www.youtube.com/@LinuxGuyNepal)
 
 # 2023 Year of Growth and Contribution: A Timeline of Milestones and Achievements
