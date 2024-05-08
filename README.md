@@ -10,6 +10,8 @@
 - [Mentored **NepTech Tribe** Community session "`Surfing with CLI(Command Line Interface)`" at American Corner, Bhairahawa](https://www.facebook.com/dev.gautam404/posts/pfbid02KAs5g5C8iu2UVeZG9NgmgR87y6yzYqxs6X5SptFNGfQAMasdfus8X8FXdWjq2jZUl)
 - Got [Active Developer Badge](https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge) on [Discord Profile](https://discord.com/@dev.gautam404).
 - Future Discussion with Sakshyam Banjade (Tech Enthusiast)
+- General Community Discussion with [Mangal Lopchan Sir(AKA Linux Guy Nepal)](https://www.youtube.com/@LinuxGuyNepal)
+
 # 2023 Year of Growth and Contribution: A Timeline of Milestones and Achievements
 - Publish Xupa - Rustam along with a video tutorial
 - Become a moderator and community manager at 0d4y3xpl017
